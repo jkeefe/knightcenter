@@ -37,6 +37,8 @@ pip install sqlite-utils
 
 Your system is going to vary, so if `pip` doesn't work you may want to try one of the [advanced installation](https://docs.datasette.io/en/latest/installation.html#advanced-installation-options) options, such as `pipx` in the Datasette documentation. 
 
+For those of you on Windows, you may need to add Python to your system. Datasette needs at least Python 3.6, and you can get Python 3.8 free [from the Microsoft Store](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l#activetab=pivot:overviewtab).
+
 ## Loading your CSV
 
 We need to turn your CSV into a database. Here's the command:
