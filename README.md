@@ -57,6 +57,19 @@ Again, your situation will vary. One way to find the full path of a file on a Ma
 
 Jump into the forums if you have trouble finding the path for your dog data CSV.
 
+### For all future datasets
+
+For any other datasets you use ... including your second dataset for this class ... just load the data into your database using this pattern:
+
+```
+sqlite-utils insert data.db [TABLE NAME] [FILE NAME] --csv
+```
+
+Again, `[FILE NAME` is the full path to the file. 
+
+`[TABLE NAME]` is just a short name for your data you'll use in Datasette.
+
+
 ## Starting Datasette
 
 The next part is easy!
