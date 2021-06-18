@@ -8,7 +8,7 @@ I had gone for Glitch because installing Datasette will vary a little depending 
 
 We're going to install Datasette on our computers.
 
-First we need to get you to the command line. That will mean opening "Terminal" on a Mac, or the "Command Prompt" on Windows. ([Here are 10 ways](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) to get there on a PC.)
+First we need to get you to the command line. That will mean opening "Terminal" on a Mac ([Here's how](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/)), or the "Command Prompt" on Windows. ([Here's how](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/) to get there on a PC.)
 
 ### If you use a Mac ...
 
