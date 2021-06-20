@@ -50,6 +50,3 @@ sqlite-utils insert .data/data.db tornadoes 2019_torn.csv --csv
 
 You'll see the "Status" and "Tools" icons start to whirl, and you may see a "warning" or "error" ... but just let it work. Once you see a green OK sign, use Glitch's "Show" button to show Datasette in a new window. Your data should be there!
 
-
-- 
-
