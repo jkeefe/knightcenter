@@ -2,6 +2,8 @@
 
 For those of you having trouble loading your dataset into Glitch for Datasette, here's another method.
 
+You can also [watch a video](https://vimeo.com/565271556) of me walking through these steps.
+
 ## A link to the data
 
 The only catch to this method is that the CSV you're using has to exist somewhere out on the internet. We need the URL to that data.
