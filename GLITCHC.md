@@ -22,6 +22,9 @@ Whether you're using the dogs data, or your own data, have the URL ready for the
 -  In a new broswer tab, go to the [Datasette getting started](https://docs.datasette.io/en/latest/getting_started.html) and click on the "Remix on Glitch" button with the two fish.
 -  Once the Glitch project has loaded ... in the lower-left corner, click on "Tools"
 -  Click on "Terminal"
+
+### Pull your data into Glitch with the data link
+
 -  Now type the word `wget`, a space, and paste the link to your data. So for the dogs data, it would look like this:
 
 ```
@@ -31,6 +34,8 @@ wget https://s3.amazonaws.com/media.johnkeefe.net/data/NYC_Dog_Licensing_Dataset
 **NOTE:** If you use a Dropbox link, be sure to remove the characters `?dl=0` from the end of the URL.
 
 Your file will download into Glitch, though _it won't show up in the list of files_. I'm not quite sure why. You can confirm it's there by typing the command `ls` (lowercase LS).
+
+### Manually load your data into Datasette
 
 Next, we'll manually put the CSV into a database for Datasette to use. The command is structured like this:
 
